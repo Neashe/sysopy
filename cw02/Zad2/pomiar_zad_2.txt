@@ -1,0 +1,2 @@
+Execution time (char): 0 s 2121900 ns
+Execution time (blocks): 0 s 2430000 ns

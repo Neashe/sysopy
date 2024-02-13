@@ -1,0 +1,3 @@
+Zostaly w pelni wykonane zad1,zad2,zad3a (75%)
+Po wynikach testow ciezko okreslic ktora biblioteka jest najszybsza
+

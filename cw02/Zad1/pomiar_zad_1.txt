@@ -1,0 +1,2 @@
+Execution time (char): 0 s 1067100 ns
+Execution time (char): 0 s 12051400 ns
